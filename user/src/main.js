@@ -22,12 +22,12 @@ import { initializeApp } from "firebase/app";
 library.add(fas,fab,far);
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBPmmBnYs8oTVMzw_k8YtMMlzNgZyFdD48",
-  authDomain: "bakery-4ad37.firebaseapp.com",
-  projectId: "bakery-4ad37",
-  storageBucket: "bakery-4ad37.appspot.com",
-  messagingSenderId: "356543590332",
-  appId: "1:356543590332:web:2d9f04b3c6c2233b3fc5b9"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 initializeApp(firebaseConfig);
